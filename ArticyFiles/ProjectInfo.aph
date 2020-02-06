@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>86E26AE687327B57C9B23D79AD6F4D5F3810A8E8EC5EF5DF671EBA1BAFF2FB76</Signature>
+  <Content>
+    <Project Guid="c48a05bb-e451-45c3-b414-270647a4278b">
+      <DisplayName Value="Blaze of Glory"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="8eafd982-a853-4cb0-a1b7-2552232f515d"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="637164638168152893"/>
+      <PartitionHash Value="17B72C888DD3E8F1B3069C79F7D791DBB2C4F8DF693F69BF102B78FCAC28FA2F"/>
+      <SaveFileVersion Value="55"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
